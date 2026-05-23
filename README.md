@@ -1,6 +1,4 @@
-# =====================================
 #        SIMPLE PYTHON CALCULATOR
-# =====================================
 
 A simple and beginner-friendly Calculator Application built using Python.
 
