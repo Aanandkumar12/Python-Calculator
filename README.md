@@ -37,7 +37,6 @@ This project performs basic mathematical operations and also stores calculation 
 
 Calculator-App/
 │
-|
 ├── calculator.py
 └── README.md
 
